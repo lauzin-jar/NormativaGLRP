@@ -1,4 +1,4 @@
-site_name: Normativa SA-MP
+site_name: Normativa GLRP
 theme:
   name: material
   palette:
@@ -6,6 +6,6 @@ theme:
     primary: yellow
     accent: red
 nav:
-  - Normativa General: normativa.md
+  - Normativa General: index.md
   - Normas Ilegales: ilegales.md
   - Facciones Principales: facciones.md
